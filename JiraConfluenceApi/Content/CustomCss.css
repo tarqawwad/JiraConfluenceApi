@@ -1,0 +1,40 @@
+﻿
+
+
+.CustomCard {
+    background-color: #BB6464;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: 'Ubuntu';
+    color:white;
+    text-align:left;
+    padding:10px;
+    margin-top:1px;
+    margin-bottom:1px;
+}
+
+.DetailsCard {
+    background-color: #CDB699;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: 'Ubuntu';
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.CardImg {
+    border-radius: 80px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+.CardLabel{
+    padding-top:12px;
+}
+.CardSpan{
+    font-size:9px;
+    text-align:center;
+}
